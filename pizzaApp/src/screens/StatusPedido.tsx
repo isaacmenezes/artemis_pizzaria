@@ -30,7 +30,8 @@ interface Order {
 }
 
 
-const API_HOSTS = ["http://192.168.3.118:3333"];
+const API_BASE_URL = process.env.EXPO_PUBLIC_API_URL || "http://localhost:3333";
+const API_HOSTS = [API_BASE_URL];
 const POLLING_INTERVAL_MS = 3000;
 
 // Paleta de Cores (Pizzaria Artemis)
