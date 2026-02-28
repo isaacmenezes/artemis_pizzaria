@@ -1,3 +1,5 @@
+# HERE BEGINS THE .gitignore FILE   
+
 node_modules/
 .next/
 .next/cache/

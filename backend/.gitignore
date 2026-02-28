@@ -1,3 +1,5 @@
+# dont forget to add the .env file to the .gitignore, it contains sensitive information like database credentials and API keys.
+
 node_modules
 pizzariaDev.dump.sql
 .next/
