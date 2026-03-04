@@ -1,13 +1,15 @@
 ![img alt](https://github.com/isaacmenezes/artemis_pizzaria/blob/48d0869ee74e57f0272aeace0c3c3472f45ea540/pizzaApp/assets/img/readme_header.png)
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo_/_Em_Refatora%C3%A7%C3%A3o-brightgreen?style=for-the-badge)
+[![Abrir Documentação Completa](https://img.shields.io/badge/Documentação_Técnica-Acessar_PDF-902a32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/isaacmenezes/artemis_pizzaria/blob/main/docs/artemispizzaria_doc.pdf)
+## Sobre o projeto
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-
-## Sobre o projeto
 O **Ártemis Pizzaria** é uma aplicação mobile (com painel de gestão web) desenvolvida como Trabalho de Conclusão de Curso Técnico. Seu objetivo principal é otimizar o gerenciamento de pedidos personalizados no ambiente interno de restaurantes e pizzarias.
 
 A solução foi projetada sob uma **arquitetura cliente-servidor**, com comunicação via APIs REST, garantindo:
